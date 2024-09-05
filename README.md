@@ -3,7 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and working with mobile applications.\
-🎓 &nbsp;I'm currently working as Senior React Native Developer at [NewGen](https://newgen.company).
+🎓 &nbsp;I'm currently working as Senior React Native Developer at [NewGen](https://newgen.company).\
+✉️ &nbsp; Feel free to [contact me](nikrus1275@gmail.com).
 
 ### 🛠 &nbsp;Tech Stack
 
